@@ -1,0 +1,6 @@
+﻿<Application
+    x:Class="ProjetoS2BDengue.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProjetoS2BDengue">
+</Application>

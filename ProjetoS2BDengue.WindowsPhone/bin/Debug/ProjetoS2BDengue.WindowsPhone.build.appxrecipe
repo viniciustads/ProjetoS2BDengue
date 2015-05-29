@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-SALA</Machine>
+    <WindowsUser>BRUNO</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f40a9bcf-1367-4675-a85b-a521250af296</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\ProjetoS2BDengue.WindowsPhone.exe">
+      <PackagePath>ProjetoS2BDengue.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\Assets\HubBackground.theme-dark.png">
+      <PackagePath>Assets\HubBackground.theme-dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\Assets\HubBackground.theme-light.png">
+      <PackagePath>Assets\HubBackground.theme-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\Telas\BasicPage1.xbf">
+      <PackagePath>Telas\BasicPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\Telas\PaginaHome.xbf">
+      <PackagePath>Telas\PaginaHome.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\Telas\PaginaPrincipal.xbf">
+      <PackagePath>Telas\PaginaPrincipal.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\Telas\PaginaFuncaoSecundaria.xbf">
+      <PackagePath>Telas\PaginaFuncaoSecundaria.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\Telas\PaginaItem.xbf">
+      <PackagePath>Telas\PaginaItem.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\ProjetoS2BDengue.WindowsPhone.xr.xml">
+      <PackagePath>ProjetoS2BDengue.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BRUNO\documents\visual studio 2013\Projects\ProjetoS2BDengue\ProjetoS2BDengue\ProjetoS2BDengue.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
